@@ -1,0 +1,32 @@
+{
+  "name": "react-native-user-profile",
+  "version": "0.0.2",
+  "description": "Hello Expo!",
+  "author": "nattatorn-dev",
+  "scripts": {
+    "lint": "eslint --fix '**/*.js'"
+  },
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "27.0.0",
+    "prop-types": "^15.6.0",
+    "react": "16.3.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-27.0.0.tar.gz",
+    "react-native-elements": "^v1.0.0-beta5",
+    "react-native-tab-view": "^0.0.75",
+    "react-navigation": "1.5.11"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.0.2",
+    "eslint": "^4.9.0",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-config-prettier": "^2.6.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-jsx-a11y": "^6.0.2",
+    "eslint-plugin-prettier": "^2.3.1",
+    "eslint-plugin-react": "^7.4.0",
+    "eslint-plugin-react-native": "^3.1.0",
+    "prettier": "^1.7.4"
+  }
+}
